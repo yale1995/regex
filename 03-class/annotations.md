@@ -8,5 +8,5 @@ Some flags useds in RegEx
 
 {min, max} => min and max
 {10,} at least 10
-{1,} at least minimum 1
+{1,} at least 1
 {,10} 0 or at most 10
